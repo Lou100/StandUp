@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-Is an app that helps you stay healthy by reminding you to stand up and walk around every 15 minutes. It uses a notification to let you know when 15 minutes have passed.  It contains a toggle button that sets an alarm which delivers a Stand up notification every 15 minutes.
+Is an app that helps you stay healthy by reminding you to stand up and walk around every 15 minutes. It uses a notification to let you know when 15 minutes have passed.  It contains a toggle button that sets an alarm which delivers a notification every 15 minutes.
 
 # Getting Started
 
